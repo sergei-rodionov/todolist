@@ -1,0 +1,13 @@
+#pagination {
+    text-align: center;
+}
+.removed {
+    color: #555555;
+    text-decoration-line: line-through;
+}
+.complete {
+    color: #005600;
+}
+.fire {
+    color: #b90000;
+}
